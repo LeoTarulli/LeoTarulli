@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Leonardo Tarulli, a Junior Data Analyst based in Ireland.
+
+I have experience working with Python executing EDA analysis and Machine learning models. 
+
 <!--
 **LeoTarulli/LeoTarulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
