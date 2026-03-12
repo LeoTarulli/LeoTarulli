@@ -3,6 +3,7 @@
 I'm Leonardo Tarulli, a Junior Data Analyst based in Ireland.
 
 I have experience working with Python performing EDA analysis and Machine learning models, SQL (MySQL and MongoDB) for executing queries and Power BI and Tableau for data visualization. 📊📈
+
 📫 How to reach me: tarullileonardo51@gmail.com
 
 <!--
