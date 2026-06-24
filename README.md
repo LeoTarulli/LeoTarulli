@@ -13,7 +13,7 @@ Power BI: Data modelling, data visualization, DAX.
 Loker Studios: Data visualization, Google analytics GA4, Google Search Console.
 
 
-###📫 How to reach me: tarullileonardo51@gmail.com
+### 📫 How to reach me: tarullileonardo51@gmail.com
 
 <!--
 **LeoTarulli/LeoTarulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
